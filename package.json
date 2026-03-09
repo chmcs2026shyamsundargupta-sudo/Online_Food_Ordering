@@ -1,0 +1,21 @@
+{
+  "name": "online_food_ordering",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chmcs2026shyamsundargupta-sudo/Online_FOOD_ORDERING.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/chmcs2026shyamsundargupta-sudo/Online_FOOD_ORDERING/issues"
+  },
+  "homepage": "https://github.com/chmcs2026shyamsundargupta-sudo/Online_FOOD_ORDERING#readme"
+}
